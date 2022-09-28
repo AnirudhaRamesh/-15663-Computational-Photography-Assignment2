@@ -1,1 +1,1 @@
-# -15663-Computational-Photography-Assignment2
+# 15663-Computational-Photography-Assignment2
