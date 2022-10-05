@@ -599,5 +599,5 @@ im_hdr_selected_cc_wb_ptm_tonemapped = display_hdr_image(im_hdr_selected_cc_wb_p
 im_hdr_selected_cc_wb_ptm_xyY = complete_photographic_tonemap_throughxyY(im_hdr_selected_cc_wb, K=0.18, B=0.01)
 im_hdr_selected_cc_wb_ptm_tonemapped = display_hdr_image(im_hdr_selected_cc_wb_ptm_xyY, 0.5, 'image after ptm tonemapped-xyY')
 
-src.cp_hw2.writeHDR('im_hdr_selected_cc_wb_ptm-part3.HDR', im_hdr_selected_cc_wb_ptm)
+src.cp_hw2.writeHDR('im_hdr_selected_cc_wb_ptm_rgb-part3.HDR', im_hdr_selected_cc_wb_ptm)
 src.cp_hw2.writeHDR('im_hdr_selected_cc_wb_ptm_xyY-part3.HDR',im_hdr_selected_cc_wb_ptm_xyY)
