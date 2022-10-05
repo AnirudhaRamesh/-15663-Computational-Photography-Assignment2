@@ -4,7 +4,7 @@ All questions were first done on jupyter-notebook and then transferred to python
 
 Please look at code and report together as they are complementary.
 
-\\
+=============
 
 hw2.py == hw2.ipynb => Corresponds to Parts 1 through 3 of the hw.
 
@@ -12,7 +12,7 @@ hw2-my-hdr-stack.py == hw2-my-hdr-stack.ipynb => Corresponds to Parts 4a and 4b 
 
 Noise-Calibration.py == Noise-Calibration.ipynb => Corresponds to Part5
 
-\\
+=============
 
 Folder outputs has all required HDRs labelled with their corresponding parts.
 
