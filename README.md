@@ -21,3 +21,4 @@ All numpy files saved are loaded up.
 =============
 
 Find source samples for my hdr stacks here : https://cmu.box.com/s/6tz1r2ubshgtwqo0x92oyy1mvp2i5si9
+Ramp and Dark Image samples : https://cmu.box.com/s/hrkttnvbadc1lpos8amyvuzvng34ozzd
